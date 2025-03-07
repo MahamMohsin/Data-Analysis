@@ -1,1 +1,1 @@
-Jupyter notebooks for data analysis using Python(NumPy, Pandas, and Matplotlib)
+Repository contains Jupyter notebooks for data analysis using Python(NumPy, Pandas, and Matplotlib)
